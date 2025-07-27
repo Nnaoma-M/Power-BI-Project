@@ -131,6 +131,8 @@ Highest Profit-Generating Products:
 - Average Daily Sales: 1,709 units
 - Estimated Inventory Duration: 15-17 days before restocking is required.
 
+[![image alt](https://github.com/Nnaoma-M/Power-BI-Project/blob/4177d6cbc36a0b30f7ac9bb9e08120b660837a1c/inventory%20report.png)
+
 ## Summary & Recommendations 
 ### Summary of Key Findings: 
 1. Downtown stores are the most profitable. 
