@@ -92,7 +92,7 @@ Highest Profit-Generating Products:
   - Deck of Cards - 84K units
   - Magic Sand - 61K units
 
-
+[![image alt](https://github.com/Nnaoma-M/Power-BI-Project/blob/62f663fab1582b6389bff78543c146ee982bd249/saless%20report%20.png)
 
  *Notably, Playdoh Can ranks high in sales volume but not in profitability.*
 
